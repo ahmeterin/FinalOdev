@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VizeOdev.YapilacakEditPage"
+             Title="Yapilacaklar">
+    <VerticalStackLayout>
+        <VerticalStackLayout Margin="30" Spacing="10">
+            <Label 
+            Text="  GorevEkle" FontSize="Header"
+            VerticalOptions="Center"  />
+
+            <Grid RowDefinitions="Auto,Auto, Auto, Auto" RowSpacing="10"
+              ColumnDefinitions="Auto, *" ColumnSpacing="10">
+                <Label Grid.Row="0" Text="Gorev" VerticalOptions="Center" />
+                <Label Grid.Row="1" Text="Detay" VerticalOptions="Center" />
+                <Label Grid.Row="2" Text="Tarih" VerticalOptions="Center" />
+                <Label Grid.Row="3" Text="Saat" VerticalOptions="Center" />
+                <Entry Grid.Row="0" Grid.Column="1" Placeholder="Gorev" x:Name="txtGorev"/>
+                <Editor Grid.Row="1" Grid.Column="1" Placeholder="Detay" x:Name="txtDetay" HeightRequest="100"/>
+                <DatePicker  Grid.Row="2"  Grid.Column="1"  x:Name ="DateTarih"/>
+                <Entry Grid.Row="3" Grid.Column="1" Placeholder="Saat girin" x:Name="txtSaat"/>
+            </Grid>
+
+            <HorizontalStackLayout Margin="30" Spacing="10">
+                <Button Text="Tamam" Clicked="OkClicked"/>
+                <Button Text="İptal" Clicked="CancelClicked"/>
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

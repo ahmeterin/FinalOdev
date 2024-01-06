@@ -1,0 +1,1433 @@
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.exe
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.deps.json
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.runtimeconfig.json
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.pdb
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.523.17405.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.AssemblyReference.cache
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\address.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\alarm.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bank.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\briefcase.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\calculator.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\color.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\down.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\kettlebell.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\minus.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\money.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\my.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\todo.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\up.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\update.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.AssemblyInfoInputs.cache
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.AssemblyInfo.cs
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.CoreCompileInputs.cache
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.CopyComplete
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\FinalOdev.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.pdb
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.genruntimeconfig.cache
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\FinalOdev.dll
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sami0\OneDrive\Masaüstü\SonOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.exe
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.deps.json
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.runtimeconfig.json
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.pdb
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.523.17405.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.AssemblyReference.cache
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\address.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\alarm.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bank.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\briefcase.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\calculator.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\color.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\down.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\kettlebell.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\minus.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\money.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\my.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\todo.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\up.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\update.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.AssemblyInfoInputs.cache
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.AssemblyInfo.cs
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.CoreCompileInputs.cache
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.CopyComplete
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\FinalOdev.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.pdb
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.genruntimeconfig.cache
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\FinalOdev.dll
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ayarlar.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\doviz.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\haber.scale-100.png
+C:\Users\sami0\OneDrive\Masaüstü\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\hava.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.exe
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.deps.json
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.runtimeconfig.json
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.pdb
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1423.51910.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.AssemblyReference.cache
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\address.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\alarm.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ayarlar.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bank.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\briefcase.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\calculator.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\color.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\doviz.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\down.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\haber.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\hava.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\kettlebell.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\minus.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\money.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\my.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\todo.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\up.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\update.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.AssemblyInfoInputs.cache
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.AssemblyInfo.cs
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.CoreCompileInputs.cache
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.CopyComplete
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\FinalOdev.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.pdb
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.genruntimeconfig.cache
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\FinalOdev.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Syndication.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\HtmlAgilityPack.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Api.CommonProtos.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.Grpc.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.PlatformServices.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.Core.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Cloud.Firestore.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Cloud.Firestore.V1.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Cloud.Location.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.LongRunning.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Protobuf.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Grpc.Auth.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Grpc.Core.Api.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Grpc.Net.Client.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Grpc.Net.Common.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Async.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\me.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\remove.scale-100.png
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Firebase.Database.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reactive.Core.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reactive.Interfaces.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reactive.Linq.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reactive.PlatformServices.dll
+E:\Study\4th term 1\Gorsel Programlama\FinalProjesi\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\me.scale-100.jpg
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.exe
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.deps.json
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.runtimeconfig.json
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.pdb
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Firebase.Database.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Api.CommonProtos.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.Grpc.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.PlatformServices.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Apis.Core.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Cloud.Firestore.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Cloud.Firestore.V1.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Cloud.Location.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.LongRunning.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Google.Protobuf.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Grpc.Auth.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Grpc.Core.Api.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Grpc.Net.Client.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Grpc.Net.Common.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\HtmlAgilityPack.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reactive.Core.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reactive.Interfaces.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reactive.Linq.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reactive.PlatformServices.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Async.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Syndication.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1423.51910.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.AssemblyReference.cache
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\address.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\alarm.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ayarlar.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bank.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\briefcase.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\calculator.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\calendar.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\color.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\doviz.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\down.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\haber.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\hava.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\kettlebell.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\me.scale-100.jpg
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\me.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\minus.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\money.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\my.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\remove.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\todo.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\up.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\update.scale-100.png
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.AssemblyInfoInputs.cache
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.AssemblyInfo.cs
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.sourcelink.json
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.csproj.CopyComplete
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\FinalOdev.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.pdb
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\FinalOdev.genruntimeconfig.cache
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\FinalOdev.dll
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ahmed\Documents\NEW_GITHUB\FinalOdev\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

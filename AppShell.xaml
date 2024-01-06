@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="VizeOdev.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:VizeOdev"
+    Shell.FlyoutBehavior="Flyout">
+
+    
+
+        <ShellContent
+        Icon="home.png"
+        Title="Ana Sayfa"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+        
+        <ShellContent
+        Icon="doviz.png" 
+        Title="Doviz Kurlari"
+        ContentTemplate="{DataTemplate local:DovizKurlari}"
+        Route="DovizKurlari" />
+
+
+
+
+        <ShellContent
+        Icon="haber.png" 
+        Title="Haberler"
+        ContentTemplate="{DataTemplate local:HaberKategoriPage}"
+        Route="HaberKategoriPage" />
+
+
+        <ShellContent
+        Icon="hava.png" 
+        Title="Hava Durumu"
+        ContentTemplate="{DataTemplate local:HavaDurumu}"
+        Route="HavaDurumu" />
+
+
+        <ShellContent
+        Icon="todo.png" 
+        Title="Yapılacaklar"
+        ContentTemplate="{DataTemplate local:YapilacaklarPage}"
+        Route="YapilacaklarListesi" />
+
+
+
+        <ShellContent
+        Icon="ayarlar.png"
+        Title="Ayarlar"
+        ContentTemplate="{DataTemplate local:Ayarlar}"
+        Route="Ayarlar" />
+        
+
+</Shell>

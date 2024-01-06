@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VizeOdev.HaberKategoriPage"
+           >
+    <Grid RowDefinitions="Auto,*"
+          RowSpacing="10">
+
+        <CollectionView Grid.Row="0" x:Name="lstMenu" SelectionMode="Single" SelectionChanged="lstMenu_SelectionChanged">
+
+        <CollectionView.ItemsLayout>
+            <LinearItemsLayout Orientation="Horizontal" ItemSpacing="10">
+            </LinearItemsLayout>
+        </CollectionView.ItemsLayout>
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="{Binding Baslik}"/>
+                </StackLayout>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+   
+        </CollectionView>
+
+        <CollectionView Grid.Row="1" x:Name="lstHaber" SelectionMode="Single" SelectionChanged="lstHaber_SelectionChanged">
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout Orientation="Vertical" ItemSpacing="10"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Vertical">
+                        <Image Source="{Binding Link}" HeightRequest="150"/>
+                        <Label Text="{Binding Detay}"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VizeOdev
+build_property.ProjectDir = C:\Users\sami0\OneDrive\Masaüstü\SonOdev\
+
+[C:/Users/sami0/OneDrive/Masaüstü/SonOdev/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/sami0/OneDrive/Masaüstü/SonOdev/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/sami0/OneDrive/Masaüstü/SonOdev/DovizKurlari.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.DovizKurlari.xaml
+build_metadata.AdditionalFiles.TargetPath = DovizKurlari.xaml
+build_metadata.AdditionalFiles.RelativePath = DovizKurlari.xaml
+
+[C:/Users/sami0/OneDrive/Masaüstü/SonOdev/KrediHesaplayici.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.KrediHesaplayici.xaml
+build_metadata.AdditionalFiles.TargetPath = KrediHesaplayici.xaml
+build_metadata.AdditionalFiles.RelativePath = KrediHesaplayici.xaml
+
+[C:/Users/sami0/OneDrive/Masaüstü/SonOdev/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/sami0/OneDrive/Masaüstü/SonOdev/RenkSecici.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.RenkSecici.xaml
+build_metadata.AdditionalFiles.TargetPath = RenkSecici.xaml
+build_metadata.AdditionalFiles.RelativePath = RenkSecici.xaml
+
+[C:/Users/sami0/OneDrive/Masaüstü/SonOdev/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/sami0/OneDrive/Masaüstü/SonOdev/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/sami0/OneDrive/Masaüstü/SonOdev/VKIHesaplayici.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.VKIHesaplayici.xaml
+build_metadata.AdditionalFiles.TargetPath = VKIHesaplayici.xaml
+build_metadata.AdditionalFiles.RelativePath = VKIHesaplayici.xaml
+
+[C:/Users/sami0/OneDrive/Masaüstü/SonOdev/YapilacaklarListesi.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.YapilacaklarListesi.xaml
+build_metadata.AdditionalFiles.TargetPath = YapilacaklarListesi.xaml
+build_metadata.AdditionalFiles.RelativePath = YapilacaklarListesi.xaml
